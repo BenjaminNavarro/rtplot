@@ -5,7 +5,7 @@ RTPlot is an efficient real time plotting solution. It is composed of a [core](h
 * [FLTK](http://www.fltk.org): https://github.com/BenjaminNavarro/rtplot-fltk
 
 There are plans to include:
-* [wxWidegts](https://www.wxwidgets.org)
+* [GTK+](https://www.gtk.org/)
 * [Qt](https://www.qt.io)
 
 # Documentation
